@@ -1,6 +1,6 @@
 {
   "name": "tiny-classnames",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "A package to evaluate an array and convert to a string",
   "main": "src/index.js",
   "types": "src/index.d.ts",

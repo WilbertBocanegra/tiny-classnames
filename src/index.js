@@ -21,8 +21,8 @@ const classNames = (value) => {
     } else {
       for (let key in value) {
         if (value[key]) {
-          value && (value += " ");
-          value = key;
+          result && (result += " ");
+          result += key;
         }
       }
     }
