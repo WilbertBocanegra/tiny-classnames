@@ -1,0 +1,17 @@
+{
+  "name": "tiny-classnames",
+  "version": "1.0.1",
+  "description": "A package to evaluate an array and convert to a string",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "keywords": [
+    "class"
+  ],
+  "author": {
+    "name": "Wilbert Bocanegra Velazquez / Core Team",
+    "email": "wilbertbocanegra@gmail.com",
+    "url": "https://wil-wilbertbocanegra.vercel.app"
+  },
+  "license": "GPL-3.0",
+  "type": "module"
+}
