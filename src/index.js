@@ -1,9 +1,9 @@
 /**
- * @author Wilbert Bocanegra Velazquez / Core Team
+ * @author Wilbert Bocanegra Velazquez
  */
 
 /**
- * @author Wilbert Bocanegra Velazquez / Core Team
+ * @author Wilbert Bocanegra Velazquez
  * @param {any} value
  * @returns {string}
  */
@@ -32,7 +32,7 @@ const classNames = (value) => {
 };
 
 /**
- * @author Wilbert Bocanegra Velazquez / Core Team
+ * @author Wilbert Bocanegra Velazquez
  * @param {any[]} args
  * @returns {string}
  */
