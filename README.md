@@ -3,10 +3,6 @@
 
 A minimal package based to classNames package
 
-## Authors
-
-- [@WilbertBocanegra](https://www.github.com/WilbertBocanegra)
-
 
 ## Usage/Examples
 
